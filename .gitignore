@@ -1,0 +1,19 @@
+
+# 環境依存
+
+/.azure
+/.env
+/.secrets
+/data/*.sqlite*
+/log/*
+*.DotSettings.user
+/certs/*
+
+!/**/.keep
+/cdktf.out
+/*.tfstate*
+.azure
+.gen
+/packages/*
+
+.DS_Store

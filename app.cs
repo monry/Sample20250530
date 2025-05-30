@@ -2,7 +2,6 @@
 #:package VYaml@1.1.1
 
 using System.Text;
-using System.IO;
 using VYaml.Annotations;
 using VYaml.Serialization;
 
